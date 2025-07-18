@@ -3,7 +3,7 @@ I am a Software developer from Lahore, Pakistan
 
 ## 💫 About Me:
 I'm a **Full Stack Developer** passionate about building clean, scalable web and mobile apps.  
-Currently diving deeper into **React Native**, **Generative AI**, and **Web3** technologies.
+Currently diving deeper into **React Native**, **Generative AI**, and **Agentic AI** technologies.
 
 ---
 🌱 I’m currently learning **React Native**, **Gen AI**, and **Agentic AI**  
