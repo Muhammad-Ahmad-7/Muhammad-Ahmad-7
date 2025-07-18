@@ -6,8 +6,8 @@ I'm a **Full Stack Developer** passionate about building clean, scalable web and
 Currently diving deeper into **React Native**, **Generative AI**, and **Web3** technologies.
 
 ---
-🌱 I’m currently learning **React Native**, **Gen AI**, and **Web3**  
-📫 Reach me at: **ahmaddev@gmail.com**  
+🌱 I’m currently learning **React Native**, **Gen AI**, and **Agentic AI**  
+📫 Reach me at: **ahmaddev477@gmail.com**  
 😄 Pronouns: *He/Him*
 
 
