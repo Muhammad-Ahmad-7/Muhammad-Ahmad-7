@@ -1,6 +1,8 @@
 ## Hi there 👋, I am  Muhammad Ahmad
 I am a Software developer from Lahore, Pakistan
 
+See my portfolio here [Muhammad-Ahmad](https://www.muhammadahmaddev.com/)
+
 ## 💫 About Me:
 I'm a **Full Stack Developer** passionate about building clean, scalable web and mobile apps.  
 Currently diving deeper into **React Native**, **Generative AI**, and **Agentic AI** technologies.
